@@ -5,6 +5,22 @@
 - pytesseract
 - matplotlib
 - PIL
+- re
+- os
+- cv2
 
 
-### for kaggle notebook visit [this link](https://www.kaggle.com/code/shubhendughosh00/optical-character-recognition)  
+### for detailed project in kaggle notebook visit [this link](https://www.kaggle.com/code/shubhendughosh00/optical-character-recognition)  
+## responses are  
+1.  
+![](https://github.com/shubhendu-ghosh-DS/OCR-using-tesseract/blob/main/reponses/Annotation%202022-08-01%20113008.png?raw=true)  
+ 2 .  
+![]()
+ 3 .  
+ ![]()
+  4 .  
+ ![]()
+  5 .  
+ ![]()
+
+
