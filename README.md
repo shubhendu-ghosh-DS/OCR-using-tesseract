@@ -15,7 +15,7 @@
 1.  
 ![](https://github.com/shubhendu-ghosh-DS/OCR-using-tesseract/blob/main/reponses/Annotation%202022-08-01%20113008.png?raw=true)  
  2 .  
-![]()
+![](https://github.com/shubhendu-ghosh-DS/OCR-using-tesseract/blob/main/reponses/Annotation%202022-08-01%20113048.png?raw=true)
  3 .  
  ![]()
   4 .  
